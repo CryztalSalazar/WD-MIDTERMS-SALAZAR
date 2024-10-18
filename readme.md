@@ -116,5 +116,8 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| CSS Grid Lyout Module | For griding about the background of my education| https://www.w3schools.com/css/css_grid.asp |
+| How to Learn CSS in 5 minutes | Image positioning in hero section of the webpage| https://www.youtube.com/watch?v=Pp7UXS3P6jY&list=PL5-0dDv_I9k1o8tpla6-n1rjinVGvn63R |
+| HTML Background Images | Background image positioning and resizing| https://www.w3schools.com/html/html_images_background.asp |
+|How To- Align Images side by side| Aligning images side by side| https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_images_side_by_side |
+| HTML <Footer> Tag | Adding footer for my website | https://www.w3schools.com/tags/tag_footer.asp |
